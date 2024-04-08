@@ -1,5 +1,4 @@
-
-# AllyArc Project
+# AllyArc ML Component
 
 ## Overview
 
